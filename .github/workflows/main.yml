@@ -18,7 +18,6 @@ env:
   TERRAFORM_VERSION: 0.14.2
   AZURE_WEBAPP_PACKAGE_PATH: './webapp'
   RG_NAME: <Production Resource Group Name>
-  PREFIX: <Resource Prefix>
   WEBAPP_NAME: <Web App Name>
 
 jobs:
